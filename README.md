@@ -48,3 +48,7 @@ Upload the project contents to a public repository and enable Pages from Setting
 
 ## V2 Image Repair
 The V2 update replaces the empty/incorrect category and Journal panels with individual local image files. The rest of the storefront remains unchanged.
+
+
+## V3 Image Repair
+Product card images were rebuilt from the clean photography area of the source assets. Embedded catalog labels, prices, and UI text are removed; each product now uses a single centered product photograph.
