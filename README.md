@@ -52,3 +52,6 @@ The V2 update replaces the empty/incorrect category and Journal panels with indi
 
 ## V3 Image Repair
 Product card images were rebuilt from the clean photography area of the source assets. Embedded catalog labels, prices, and UI text are removed; each product now uses a single centered product photograph.
+
+## V4 Image Refinement
+V4 replaces the product and collection photography with clean, individually cropped images from the approved storefront visual. Each image is isolated from surrounding UI text and fitted consistently for the product grid. The utensil product copy was aligned with its approved image.
