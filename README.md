@@ -55,3 +55,10 @@ Product card images were rebuilt from the clean photography area of the source a
 
 ## V4 Image Refinement
 V4 replaces the product and collection photography with clean, individually cropped images from the approved storefront visual. Each image is isolated from surrounding UI text and fitted consistently for the product grid. The utensil product copy was aligned with its approved image.
+
+
+## V5 Image Quality Update
+- Replaced the story collage with a dedicated single-photo story image.
+- Cleaned the hero image so it contains only the photographic scene, without the lower collage.
+- Reprocessed category, product, and Journal photography at higher resolution with light sharpening.
+- Kept layout, copy, navigation, cart, filters, support, and all other functionality unchanged.
