@@ -4,7 +4,7 @@
 
 NOMAIRE is a premium kitchen and table lifestyle storefront focused on cookware, kitchen tools, tableware, drinkware, storage, home accents, and gifts.
 
-## Included
+## Included in V2
 - Premium responsive storefront
 - Editorial hero section
 - 6 category collections with individual local images
@@ -21,6 +21,8 @@ NOMAIRE is a premium kitchen and table lifestyle storefront focused on cookware,
 - robots.txt
 - GitHub Pages-ready static files
 - Lightweight local assets
+- Repaired individual category photography
+- Repaired individual Journal photography
 
 ## Support
 **Email:** support@nomaire-home.com  
@@ -42,3 +44,7 @@ Upload the project contents to a public repository and enable Pages from Setting
 **In development — premium storefront prototype ready for deployment and customization.**
 
 © 2026 NOMAIRE Kitchen & Table
+
+
+## V2 Image Repair
+The V2 update replaces the empty/incorrect category and Journal panels with individual local image files. The rest of the storefront remains unchanged.
